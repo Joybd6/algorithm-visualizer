@@ -1,0 +1,8 @@
+{
+"files.autoSave": "afterDelay",
+"code-runner.runInTerminal": true,
+"code-runner.saveAllFilesBeforeRun": true,
+"workbench.editor.enablePreviewFromQuickOpen": false,
+"workbench.editor.enablePreview": false,
+"cmake.configureOnOpen": false
+}
