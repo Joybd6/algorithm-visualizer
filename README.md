@@ -26,7 +26,11 @@ cd algorithm-visualizer
 ```
 
 8. Use make command to build the program:
-```make```
+```
+make
+```
 
-9. Now run the program:
-```./myapp```
+10. Now run the program:
+```
+./myapp
+```
