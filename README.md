@@ -4,6 +4,9 @@ It can visualize:
 * Sorting Algorithm
 * Dijkstra Algorithm
 
+## Screenshots
+Here screenshots of the visualization from the application
+
 ## Build the program from source code on Ubuntu (step by step guide):
 1. Install the SDL libraries using apt:
 ```
